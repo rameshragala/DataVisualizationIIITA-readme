@@ -1,0 +1,30 @@
+https://developers.google.com/chart/interactive/docs/gallery/columnchart
+https://mschermann.github.io/data_viz_reader/patterns.html  *****
+
+
+https://www.geeksforgeeks.org/python-seaborn-jointplot-method/
+
+https://seaborn.pydata.org/generated/seaborn.jointplot.html
+
+https://www.geeksforgeeks.org/countplot-using-seaborn-in-python/
+
+https://seaborn.pydata.org/generated/seaborn.countplot.html
+
+https://towardsdatascience.com/hands-on-python-data-visualization-seaborn-count-plot-90e823599012
+
+Tableau with tabpy
+https://www.tableau.com/about/blog/2017/1/building-advanced-analytics-applications-tabpy-64916
+
+https://visualbi.com/blogs/tableau/machine-learning-data-analytics-using-tabpy-explained-with-a-use-case/
+
+https://hevodata.com/learn/using-tabpy-to-blend-python-with-tableau-steps/
+
+https://help.tableau.com/current/prep/en-us/prep_scripts_TabPy.htm
+
+https://towardsdatascience.com/tabpy-combining-python-and-tableau-511b10da8175
+https://community.tableau.com/s/news/a0A4T000002NznhUAC/tableau-integration-with-python-step-by-step ***
+https://tableau.toanhoang.com/tableau-and-python-an-introduction/ *** shown to students
+
+pratical --> 
+https://github.com/swucim/iris_tableau_python
+https://www.tableau.com/about/blog/2017/1/building-advanced-analytics-applications-tabpy-64916
